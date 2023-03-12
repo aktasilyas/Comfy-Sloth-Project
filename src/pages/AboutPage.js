@@ -7,7 +7,7 @@ const AboutPage = () => {
   return <h4>about page</h4>
 }
 
-
+//deneme
 const Wrapper = styled.section`
   display: grid;
   gap: 4rem;
